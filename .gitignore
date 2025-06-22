@@ -1,0 +1,19 @@
+# Node
+yelp_frontend/node_modules/
+yelp_frontend/.env
+yelp_frontend/.DS_Store
+yelp_frontend/.next/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+

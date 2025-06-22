@@ -12,7 +12,7 @@ For the UI:
 1. Clone the repository: `git clone git@github.com:scards4/yelp_search.git`
 2. open two terminals, one for backend, one for frontend.
 3. change directory into `yelp_backend`, then execute: `python3 server.py`
-4. In second terminal, change directory into `yelp_frontend`, then execute: `npm start`
+4. In second terminal, change directory into `yelp_frontend`, then execute: `npm install` and then `npm start`
 
 After step (4) the website should automatically appear. You can also visit http://localhost:3000/.
 
